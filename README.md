@@ -11,10 +11,10 @@ First step:  I imported and cleaned the data contained in an excel workbook via 
 Second step: Normalized the data and established relationships between the fact and dimension tables using the customer number as the unique key.
 
 Third step: Loyalty scores were assigned to each customer based on Data Subscribed and Bonus usage. Using on the customers final score, customers were classified into the following:
-1. Tier 1 Priority Service – Above 85% 
-2. Tier 2 Priority Service – Between 75% and 85%
-3. Tier 3 Priority Service + Incentives – Above 60% and less than 75%
-4. Tier 4 Priority Marketing + Incentives – Less than or equal to 60% 
+- Tier 1 Priority Service – Above 85% 
+- Tier 2 Priority Service – Between 75% and 85%
+- Tier 3 Priority Service + Incentives – Above 60% and less than 75%
+- Tier 4 Priority Marketing + Incentives – Less than or equal to 60% 
 
 In addition, key measures including Total number of customers, Total Assigned score, % Assigned score, Customer Group were created using Dax formulas.
 
@@ -22,9 +22,9 @@ Fourth step: A dynamic dashboard was created showing the 4 customer tiers with t
 
 # CHALLENGES ENCOUNTERED
 1. Assigning customer group/tier to each customer based on their final score.
-SOLUTION: I joined the power Bi community online where I was guided on how to use the SWITCH function.
+- SOLUTION: I joined the power Bi community online where I was guided on how to use the SWITCH function.
 
 2. Some customers subscribed for data multiple times in a month, therefore the data subscribed & bonus used for that month had to be summed into one row and grouped into one Customer Number.
-SOLUTION: I did some research online and eventually spoke to a colleague who told me about the “group by” function in power query.
+- SOLUTION: I did some research online and eventually spoke to a colleague who told me about the “group by” function in power query.
 
 
