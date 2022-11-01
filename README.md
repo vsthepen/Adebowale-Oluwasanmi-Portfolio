@@ -22,7 +22,13 @@ Fourth step: A dynamic dashboard was created showing the 4 customer tiers with t
 
 ## Front page of the dashboard
 ![MARK UP FOODS AND BEVERAGE-1](https://user-images.githubusercontent.com/115559534/199284813-ad983f7f-1e83-4d3e-8ee2-533fd3479cc6.png)
-)
+
+## Sales Analysis Dashboard
+![MARK UP FOODS AND BEVERAGE-2](https://user-images.githubusercontent.com/115559534/199285588-35969509-012d-4c40-b1fc-05cf76362086.png)
+
+
+## Sales Team Dashboard
+![MARK UP FOODS AND BEVERAGE-3](https://user-images.githubusercontent.com/115559534/199285714-f7f673af-1609-4300-9a6c-a359da88cfa1.png)
 
 # Challenges Encountered
 1. Assigning customer group/tier to each customer based on their final score.
