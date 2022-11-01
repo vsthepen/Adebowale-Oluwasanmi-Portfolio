@@ -20,6 +20,9 @@ In addition, key measures including Total number of customers, Total Assigned sc
 
 Fourth step: A dynamic dashboard was created showing the 4 customer tiers with the aid of a bar chart, which is a great choice for visualizing data with less than 5 categories. I also utilized the format and customized tool tips options within Power Bi to give my dashboard a very professional face lift.
 
+# Front page of the dashboard
+![](images/MARK UP FOODS AND BEVERAGE-1.png)
+
 # Challenges Encountered
 1. Assigning customer group/tier to each customer based on their final score.
 - SOLUTION: I joined the power Bi community online where I was guided on how to use the SWITCH function.
