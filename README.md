@@ -18,7 +18,7 @@ Third step: Loyalty scores were assigned to each customer based on Data Subscrib
 
 In addition, key measures including Total number of customers, Total Assigned score, % Assigned score, Customer Group were created using Dax formulas.
 
-Fourth step: A dynamic dashboard was created showing the 4 customer tiers with the aid of a bar chart, which is a great choice for visualizing data with less than 5 categories. I also utilized the format and customized tool tips options within Power Bi to give my dashboard a very professional face lift.
+Fourth step: A dynamic dashboard was created showing the 4 customer tiers with the aid of a bar chart, which is a great choice for visualizing data with less than 5 categories. A donut chart was also utilized to show the percentage of customers by city.
 
 ## ABC Telecomms Dashboard Showing Customer Tiers
 ![ABC DASHBOARD-1](https://user-images.githubusercontent.com/115559534/199286385-9512d81d-fbbd-4e5c-962e-951b3c7d4957.png)
