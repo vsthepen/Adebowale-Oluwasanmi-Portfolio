@@ -30,4 +30,4 @@ Fourth step: A dynamic dashboard was created showing the 4 customer tiers with t
 2. Some customers subscribed for data multiple times in a month, therefore the data subscribed & bonus used for that month had to be summed into one row and grouped into one Customer Number.
 - SOLUTION: I did some research online and eventually spoke to a colleague who told me about the “group by” function in power query.
 
-
+# [Project 2: Sales Trend, Product Sales & Sales Performance Analysis](https://github.com/vsthepen/Sales-Trend-Analysis)
