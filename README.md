@@ -6,7 +6,7 @@ Analytics Portfolio
 This analytics project was imperative for stakeholders of ABC Telecomms to support their revenue drive and marketing effort. They wanted to have a better understanding of their customers, especially with regards to how they use their Internet Data Plans.
 The company provided 6 months of customer data for profiling before further analysis.
 
-First step:  I imported and cleaned the data contained in an excel workbook via power query editor in power bi. Unwanted columns, empty cells and redundant data were eliminated. Also, data types for each column were validated to maintain accuracy.
+First step:  I imported and cleaned the data collected in an excel workbook via power query editor in power bi. Unwanted columns, empty cells and redundant data were eliminated. Also, data types for each column were validated to maintain accuracy.
 
 Second step: Normalized the data and established relationships between the fact and dimension tables using the customer number as the unique key.
 
