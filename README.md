@@ -30,7 +30,7 @@ Fourth step: A dynamic dashboard was created showing the 4 customer tiers with t
 2. Some customers subscribed for data multiple times in a month, therefore the data subscribed & bonus used for that month had to be summed into one row and grouped into one Customer Number.
 - SOLUTION: I did some research online and eventually spoke to a colleague who told me about the “group by” function in power query.
 
-# [Project 2: Sales Trend, Product Sales & Sales Performance Analysis](https://github.com/vsthepen/Sales-Trend-Analysis)
+# [Project 2: Sales Trend, Product Sales & Sales Team Performance Analysis](https://github.com/vsthepen/Sales-Trend-Analysis)
 
 The executive management of Mark Up Foods and Beverages requested for a sales trend and product sales analysis report to enable them gain insights into the top performing and underperforming products, also to evaluate sales team performance between 2019 and 2021. The data was collected in 3 separate excel workbooks for each year. Each workbook contained similar columns such as salesperson, orders, order Date, product group, quantity, unit price, etc. The sales budget data for each year was equally provided. The data was then extracted and transformed using the power query editor.
 
