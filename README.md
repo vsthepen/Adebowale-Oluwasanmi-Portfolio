@@ -23,12 +23,6 @@ Fourth step: A dynamic dashboard was created showing the 4 customer tiers with t
 ## ABC Telecomms Dashboard Showing Customer Tiers
 ![ABC DASHBOARD-1](https://user-images.githubusercontent.com/115559534/199286385-9512d81d-fbbd-4e5c-962e-951b3c7d4957.png)
 
-# Challenges Encountered
-1. Assigning customer group/tier to each customer based on their final score.
-- SOLUTION: I joined the power Bi community online where I was guided on how to use the SWITCH function.
-
-2. Some customers subscribed for data multiple times in a month, therefore the data subscribed & bonus used for that month had to be summed into one row and grouped into one Customer Number.
-- SOLUTION: I did some research online and eventually spoke to a colleague who told me about the “group by” function in power query.
 
 # [Project 2: Sales Trend, Product Sales & Sales Team Performance Analysis](https://github.com/vsthepen/Sales-Trend-Analysis)
 
@@ -56,10 +50,6 @@ I tried my hands on the customized tool tips options within Power Bi to give my 
 ## Customized tooltip
 ![image](https://user-images.githubusercontent.com/115559534/199511276-fc20f100-d18f-43e8-9374-4924850aa93f.png)
 
-# Challenges Encountered
-- Incorporating images for salespersons into the report. I found the solution after going through a few YouTube videos.
-- Using conditional formatting on the line chart to show GREEN when Actual Sales > Budgeted Sales, 
-RED when Budgeted Sales > Actual Sales. I also found the solution to this after 30 to 45 minutes of YouTube research.
 
 In conclusion, I enjoyed every bit of working on this project, can you tell?.
 
